@@ -1,1 +1,1 @@
-# Finantial control
+# Financial control
